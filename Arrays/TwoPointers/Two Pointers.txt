@@ -1,0 +1,5 @@
+So in two pointers concept:
+- we use two indexes -> i , j
+- i should be the 0 and j be the n-1
+- can be only used in sorted array -> so need to check if the input array is sorted
+- while loop is best for this two pointer -> while(i < j)
